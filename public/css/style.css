@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+  }
+
+  .btn-primary{
+    color: rgb(251, 103, 30);
+    background-color: black;
+  }
+
+  .pic{
+    height: 300px;
+    width: 300px;
+  }
+
+  .gg{
+    height: 400px;
+    width: 400px;
+
+  }
+  .row{
+    color: rgb(176, 219, 20);
+  }
+  .tt{
+    height: 200px;
+    margin: 30px;
+  }
+  .col-{
+    width: 59px;
+  }
+
+  .ss{
+    height: 20px;
+    width: 15px;
+  }
+
+
+  
